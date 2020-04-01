@@ -1,4 +1,4 @@
 subito
 *.ipynb_checkpoints
 .DS_Store
-tmp
+covid/COVID-19/
