@@ -1,1 +1,1 @@
-This repo is collection of data analisys experiments
+This repo is collection of data analisys learnig experiments
